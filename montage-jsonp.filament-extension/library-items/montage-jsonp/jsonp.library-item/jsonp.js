@@ -3,7 +3,7 @@ var LibraryItem = require("filament-extension/core/library-item").LibraryItem;
 
 var moduleLocation = module.location.replace(/[^\/]+.js$/m, "");
 
-exports.JSONP = LibraryItem.specialize({
+exports.Jsonp = LibraryItem.specialize({
 
     constructor: {
         value: function JSONPLibraryItem () {
@@ -12,7 +12,7 @@ exports.JSONP = LibraryItem.specialize({
     },
 
     name: {
-        value: "JSONP"
+        value: "Jsonp"
     },
 
     description: {
