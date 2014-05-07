@@ -12,7 +12,7 @@ exports.JSONP = LibraryItem.specialize({
     },
 
     name: {
-        value: "Jsonp"
+        value: "JSONP"
     },
 
     description: {
