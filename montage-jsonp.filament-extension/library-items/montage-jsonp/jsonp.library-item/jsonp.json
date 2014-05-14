@@ -1,5 +1,5 @@
 {
     "name": "Jsonp",
     "description": "Montage package to handle JSONP requests.",
-    "inconUrl": "jsonp.png"
+    "iconUrl": "jsonp.png"
 }
